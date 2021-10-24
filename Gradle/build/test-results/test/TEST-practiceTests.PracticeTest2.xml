@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practiceTests.PracticeTest2" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-24T13:37:11" hostname="DEEPAK000" time="0.114">
+  <properties/>
+  <testcase name="givenaddition_whenProper_returnTrue()" classname="practiceTests.PracticeTest2" time="0.114"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
